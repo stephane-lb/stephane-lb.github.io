@@ -2,7 +2,7 @@
 title: Stephane-lb
 description: 'Learn, Code and Die'
 url: 'http://stephane-lb.github.io/'
-baseurl: '/'
+baseurl: 'http://stephane-lb.github.io'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
